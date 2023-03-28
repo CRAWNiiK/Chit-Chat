@@ -18,4 +18,4 @@ This is a simple instant messaging program that allows multiple clients to conne
 
 ## Acknowledgments
 
-This program was created by [insert your name here] for [insert purpose here]. Special thanks to [insert any acknowledgments here].
+This program was created by CRAWNiiK for whatever I want. Special thanks to ME.
